@@ -1,0 +1,14 @@
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\obj\Debug\StatsModels.csprojResolveAssemblyReference.cache
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\bin\Debug\StatsModels.dll
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\bin\Debug\StatsModels.pdb
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\obj\Debug\StatsModels.dll
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\obj\Debug\StatsModels.pdb
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\bin\Debug\NumericalMethod.dll
+E:\金融项目\ResearchBasic\Developers\lwZheng\MarkovSwitchingModel\bin\Debug\NumericalMethod.pdb
+D:\ResearchBasic\Developers\hxLin\StatsModels\obj\Debug\StatsModels.csprojResolveAssemblyReference.cache
+D:\ResearchBasic\Developers\hxLin\StatsModels\obj\Debug\StatsModels.pdb
+D:\ResearchBasic\Developers\hxLin\StatsModels\bin\Debug\StatsModels.pdb
+D:\ResearchBasic\Developers\hxLin\StatsModels\bin\Debug\NumericalMethod.dll
+D:\ResearchBasic\Developers\hxLin\StatsModels\bin\Debug\NumericalMethod.pdb
+D:\ResearchBasic\Developers\hxLin\StatsModels\bin\Debug\StatsModels.exe
+D:\ResearchBasic\Developers\hxLin\StatsModels\obj\Debug\StatsModels.exe
